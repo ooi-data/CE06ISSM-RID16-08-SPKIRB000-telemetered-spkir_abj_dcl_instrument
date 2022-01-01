@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE06ISSM-RID16-08-SPKIRB000-telemetered-spkir_abj_dcl_instrument
-last_request: '2021-12-21T23:17:29.010618Z'
+last_request: '2022-01-01T02:46:17.290954Z'
 response: https://raw.githubusercontent.com/ooi-data/CE06ISSM-RID16-08-SPKIRB000-telemetered-spkir_abj_dcl_instrument/main/history/response.json
-status: success
+status: pending
